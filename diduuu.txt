@@ -1,3 +1,4 @@
 name:deepa rathod
 age:20+
 study:ba
+hobbies:cooking,designing
